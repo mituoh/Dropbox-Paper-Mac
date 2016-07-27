@@ -1,4 +1,4 @@
-# Dropbox Paper for Mac (Unoffical)
+# Dropbox Paper for Mac (Unofficial)
 Mac app wrapper around [paper.dropbox.com](https://paper.dropbox.com)
 
 > [Download latest release](https://github.com/mituoh/Dropbox-Paper-Mac/releases/download/v1.0/Dropbox.Paper.app.zip)<br>
