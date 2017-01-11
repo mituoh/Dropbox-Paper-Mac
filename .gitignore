@@ -5,7 +5,8 @@
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
@@ -26,4 +27,4 @@ Temporary Items
 .apdisk
 
 # Custom
-Dropbox-Paper-darwin-x64
+Dropbox Paper-darwin-x64
